@@ -1,0 +1,2 @@
+1.https://capgemini.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=https:%2F%2Fcapgemini.sumtotal.host%2Flearning%2Fapp%2Fmanagement%2FLMS_TrainingPlans.aspx%3FUserMode%3D0
+2.capgemini.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D659028%26UserMode%3D0
